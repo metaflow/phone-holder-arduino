@@ -1,1 +1,4 @@
-* TODO move bt and other to breadboard
+* DONE move bt and other to breadboard
+  CLOSED: [2019-03-16 Sa 11:57]
+* TODO movement to given coords
+form is "rotate_x v" "rotate_y v"
